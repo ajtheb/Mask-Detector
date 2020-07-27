@@ -9,3 +9,5 @@ Kaggle
 Google Search
 
 
+Testing of model on out of dataset images-
+![test](https://github.com/ajtheb/Mask-Detector/raw/master/testing%20Mask.PNG)
